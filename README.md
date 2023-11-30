@@ -1,5 +1,5 @@
-### Hi there 👋
-🌱 I’m currently learning Cyber Security!
+### Welcome 👋
+I’m currently learning Cyber Security while enjoying working on Data Analysis, ML and diverse topics
 
 <!--
 **walex999/walex999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
