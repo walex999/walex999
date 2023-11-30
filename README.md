@@ -1,6 +1,6 @@
 ### Welcome 👋
-I’m currently learning Cyber Security while enjoying working on Data Analysis, ML and diverse topics
-Tryhackme:
+<p>I’m currently learning Cyber Security while enjoying working on Data Analysis, ML and diverse topics</p>
+<a href="https://tryhackme.com/p/walex999">Tryhackme</a>
 <img src="https://tryhackme-badges.s3.amazonaws.com/walex999.png" alt="TryHackMe">
 <!--
 **walex999/walex999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
