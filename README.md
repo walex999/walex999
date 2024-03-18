@@ -6,7 +6,8 @@
 <div>
   <img src="https://tryhackme-badges.s3.amazonaws.com/walex999.png" alt="TryHackMe">
 </div>
-https://github-readme-stats.vercel.app/api/top-langs/?username=walex999&theme=tokyonight
+![Most used languages here](https://github-readme-stats.vercel.app/api/top-langs/?username=walex999&theme=tokyonight)
+
 <!--
 **walex999/walex999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
