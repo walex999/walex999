@@ -1,11 +1,6 @@
 ### Welcome 👋
-<div>
-  <p>I’m currently learning Cyber Security while enjoying working on Data Analysis, ML and diverse topics</p>
-  <a href="https://tryhackme.com/p/walex999">Tryhackme</a>
-</div>
-<div>
-  <img src="https://tryhackme-badges.s3.amazonaws.com/walex999.png" alt="TryHackMe">
-</div>
+I’m currently learning Cyber Security while enjoying working on Data Analysis, ML and diverse topics
+
 ![Most used languages here](https://github-readme-stats.vercel.app/api/top-langs/?username=walex999&theme=tokyonight)
 
 <!--
