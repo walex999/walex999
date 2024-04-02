@@ -1,5 +1,5 @@
 ### Welcome 👋
-I’m currently learning Cyber Security while enjoying working on Data Analysis, ML and diverse topics
+I’m currently learning Cyber Security while enjoying working on Data Analysis, ML and diverse topics.
 
 <!-- ![Most used languages here](https://github-readme-stats.vercel.app/api/top-langs/?username=walex999&theme=tokyonight) -->
 
