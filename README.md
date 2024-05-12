@@ -1,5 +1,6 @@
 ### Welcome 👋
 I enjoy working on various topics such as web development, app programming, Data Analysis, ML and more !
+You can visit my website: [walex.fr](https://walex.fr)
 <!-- ![Most used languages here](https://github-readme-stats.vercel.app/api/top-langs/?username=walex999&theme=tokyonight) -->
 
 <!--
